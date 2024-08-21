@@ -8,7 +8,7 @@
     "build": "vite build",  
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview" 
-  }, 
+  },  
   "dependencies": {   
     "aos": "^2.3.4",   
     "axios": "^1.6.2", 
